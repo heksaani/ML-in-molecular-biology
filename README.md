@@ -10,4 +10,6 @@ models.
 5. Reinforcement Learning and its applications in biology
 6. Deep learning in molecular biology
 7. Predicting drug combination responses in cancer with machine learning 
-8. Machine Learning in metagenomics 
+8. Machine Learning in metagenomics
+
+[Group work](https://github.com/heksaani/ML-in-molecular-biology/blob/main/GROUP.ipynb)
