@@ -12,4 +12,4 @@ models.
 7. Predicting drug combination responses in cancer with machine learning 
 8. Machine Learning in metagenomics
 
-[Group work]([https://github.com/heksaani/ML-in-molecular-biology/blob/main/GROUP.ipynb](https://github.com/heksaani/ML-in-molecular-biology/blob/main/GROUP_WORK/GROUP.ipynb))
+[Group work](https://github.com/heksaani/ML-in-molecular-biology/blob/main/GROUP_WORK/GROUP.ipynb)
