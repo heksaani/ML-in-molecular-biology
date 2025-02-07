@@ -13,3 +13,6 @@ models.
 8. Machine Learning in metagenomics
 
 [Group work](https://github.com/heksaani/ML-in-molecular-biology/blob/main/GROUP_WORK/GROUP.ipynb)
+
+Training multiple different models (using python scikit learn library) on mutational profiles and signature activities to predict cancer types.
+
